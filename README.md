@@ -18,7 +18,7 @@ Please refer to ProfessionMap.java for Unit Testing
 ##For question 4 please refer to ListsExercise.java class
 For this exercise we need a data structure capable of traverse elements in an efficient way. List and ListIterator can help us to solve this question.
 
-Unit test should be run with maven.
+Unit tests should be run with maven.
 Code is for Java 1.6 and JUnit 4.11
 
 ###Regards
